@@ -1,0 +1,13 @@
+Source: amigafonts
+Section: contrib/fonts
+Priority: optional
+Maintainer: unknown
+Build-Depends: debhelper (>= 13)
+Standards-Version: 4.1.4
+
+Package: amigafonts
+Section: contrib/fonts
+Architecture: all
+Depends: ${misc:Depends}
+Description: Multi Platform Amiga Fonts
+ Faithfully remade multi platform Amiga fonts in Amiga aspect.
