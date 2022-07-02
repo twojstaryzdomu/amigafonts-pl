@@ -1,13 +1,17 @@
-Source: amigafonts
+Source: amigafonts-pl
 Section: contrib/fonts
 Priority: optional
-Maintainer: unknown
+Maintainer: unknown <pi@raspberrypi>
 Build-Depends: debhelper (>= 13)
 Standards-Version: 4.1.4
 
-Package: amigafonts
+Package: amigafonts-pl
 Section: contrib/fonts
 Architecture: all
 Depends: ${misc:Depends}
-Description: Multi Platform Amiga Fonts
+Description: Multi Platform Amiga Fonts with Polish diacritics
  Faithfully remade multi platform Amiga fonts in Amiga aspect.
+ .
+ The package contains TrueType & console PSF fonts with Polish diacritics and graphical equivalents.
+
+
